@@ -1,0 +1,2 @@
+cryptography>=42.0.0
+qrcode>=7.4.2
