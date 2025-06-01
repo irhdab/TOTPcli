@@ -1,9 +1,3 @@
-#!/usr/bin/env python3
-"""
-TOTP 2FA CLI Application
-A command-line tool for managing Time-based One-Time Passwords (TOTP)
-"""
-
 import argparse
 import base64
 import hashlib
