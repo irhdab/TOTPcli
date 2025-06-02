@@ -27,7 +27,7 @@ python 2fa.py add [service-name]
 python 2fa.py list
 
 ## Configuration
-### Secrets are stored in `~/.totpcli` by default. The file format uses:
+### Secrets are stored in `~/.2fa_config.json` by default. The file format uses:
 [service-name] secret = YOUR_BASE32_SECRET
 
 ## Requirements(Pyhton3&requirements.txt
