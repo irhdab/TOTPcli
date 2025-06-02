@@ -11,9 +11,14 @@ A lightweight Python CLI tool for generating TOTP codes from your 2FA secrets. C
 
 ## Installation
 1. Clone repository:
-git clone ~[https://github.com/irhdab/TOTPcli.git](https://github.com/irhdab/TOTPcli.git)~ cd TOTPcli
+```
+git clone https://github.com/irhdab/TOTPcli.git](https://github.com/irhdab/TOTPcli.git
+ cd TOTPcli
+```
 2. Install requirements:
+```
 pip install -r requirements.txt
+```
 
 
 ## Usage
